@@ -1,5 +1,6 @@
 layout: slide
-title: "Welcome to our GitHubAdelaioana's slide!"
+title: "Welcome to our second slide!"
 ---
-This is my awesome slide slide
+Your text
+This is Adelaioana's slide
 Use the left arrow to go back!
